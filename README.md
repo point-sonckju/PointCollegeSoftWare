@@ -1,0 +1,2 @@
+# PointCollegeSoftWare
+Point Collegen ohjelmointiharjoitukset
